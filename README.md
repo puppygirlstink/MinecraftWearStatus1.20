@@ -65,10 +65,14 @@ First, download the files (mod jar and watch APK) from [Releases](https://github
    ```
 8. Remember to turn off WiFi debugging!
 
-<!-- CONTACT -->
-## Contact
+<!-- CREDITS -->
+## Credits
 
+Person who did all the work:
 Zazsona - [@Zazsona](https://twitter.com/Zazsona)
+
+Puppy who ported it to 1.20:
+puppygirlstink - [pawbong](https://twitter.com/pawbong)
 
 Issues and Bugs: [https://github.com/Zazsona/MinecraftWearStatus/issues](https://github.com/Zazsona/MinecraftWearStatus/issues)
 
